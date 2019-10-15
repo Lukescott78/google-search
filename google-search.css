@@ -99,3 +99,57 @@ a {
 main {
     display: block;
 }
+
+.time {
+    color: #777;
+    font-size: 14px;
+    padding: 10px 140px;
+    border-top: 1px solid #dfe1e5;
+}
+
+div { 
+    display:block;
+}
+
+p {
+    display:block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+
+.result {
+    position: relative;
+    margin: 1px 135px;
+}
+
+.title {
+    margin-bottom: 4px;
+    font-size: 20px;
+    color: #1a0dab;
+    font-weight: normal;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.green-text {
+    font-size: 16px;
+    font-style: normal;
+    color: #006621;
+}
+
+.desc {
+    margin-top: 4px;
+    font-size: 14px;
+    color: #545454;
+    width: 800px;
+}
